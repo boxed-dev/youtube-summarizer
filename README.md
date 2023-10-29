@@ -1,6 +1,6 @@
 # YouTube Video Summarizer 🎥
 
-![GitHub](https://img.shields.io/github/license/your/repository)
+![GitHub](https://img.shields.io/github/license/boxed-dev/youtube-summarizer)
 
 This is a simple Streamlit web app that allows you to summarize a YouTube video using the power of Llama 2 🦙, Haystack, and Streamlit. With this app, you can quickly generate a summary of your favorite YouTube videos in just a few clicks. It's designed to be user-friendly and fun to use.
 
