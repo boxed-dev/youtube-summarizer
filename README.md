@@ -41,7 +41,7 @@ To get started with the YouTube Video Summarizer, follow these steps:
 
 ## About the App
 
-This app allows you to summarize while watching a YouTube video. It's built with the Llama 2 🦙, Haystack, Streamlit, and lots of ❤️ by AI Anytime.
+This app allows you to summarize while watching a YouTube video. It's built with the Llama 2 🦙, Haystack, Streamlit, and lots of ❤️ by boxed-dev.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
